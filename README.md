@@ -36,8 +36,15 @@ que apoiem decisões estratégicas de negócio.
 
 ## 🖼️ Dashboards
 
-![Dashboard 1](imagens/dashboard-1.png)
-![Dashboard 2](imagens/dashboard-2.png)
+![Dashboard 1](Dash1.jpg)
+![Dashboard 2](Dash2.jpg)
+![Dashboard 3](Dash3.jpg)
+![Dashboard 4](Dash4.jpg)
+![Dashboard 5](Dash5.jpg)
+![Dashboard 6](Dash6.jpg)
+![Dashboard 7](Dash7.jpg)
+![Dashboard 8](Dash8.jpg)
+![Dashboard 9](Dash9.jpg)
 
 *(imagens serão adicionadas na próxima etapa)*
 
