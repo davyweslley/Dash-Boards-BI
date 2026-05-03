@@ -9,7 +9,7 @@ desenvolvidos durante minha jornada na área de Business Intelligence.
 
 | Dashboard | Descrição | Ferramentas |
 |---|---|---|
-| [Análise de Campanhas de Marketing](https://github.com/davyweslley/dashboard-marketing-powerbi) | Análise de desempenho de campanhas e comportamento de clientes | Power BI, DAX, Power Query, SQL |
+| [Análise de Campanhas de Marketing](dashboard-marketing/README.md) | Análise de desempenho de campanhas e comportamento de clientes | Power BI, DAX, Power Query, SQL |
 
 ---
 
