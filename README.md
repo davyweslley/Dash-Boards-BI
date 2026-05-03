@@ -46,8 +46,6 @@ que apoiem decisões estratégicas de negócio.
 ![Dashboard 8](Dash8.jpg)
 ![Dashboard 9](Dash9.jpg)
 
-*(imagens serão adicionadas na próxima etapa)*
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
